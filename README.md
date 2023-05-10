@@ -1,1 +1,1 @@
-# Python-TicTacToe-23
+This code creates a 3x3 Tic Tac Toe game with a GUI using Tkinter in Python. It allows two players to take turns placing their markers and checks for a winner or a tie after each turn. The game displays a message box when the game is over and allows the user to reset the board to play again.
